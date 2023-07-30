@@ -5129,7 +5129,7 @@ ul.biography-table li p {
 @media screen and (max-width: 767px) {
 	.testimonial-style-one .thumb {
 		position: relative;
-		width: 480px;
+		width: 340px;
 		margin: auto auto 30px;
 		
 		overflow: hidden;
